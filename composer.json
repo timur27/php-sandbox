@@ -1,0 +1,8 @@
+{
+  "require": {
+    "brick/money": "0.5.3"
+  },
+  "autoload": {
+    "classmap": ["vendor/brick/money"]
+  }
+}
